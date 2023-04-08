@@ -1,4 +1,4 @@
-# Web Scraping Project: LinkedIn Job Search Automation
+# Web Scraping Group Project: LinkedIn Job Search Automation
 
 Webpage Source: https://www.linkedin.com/jobs/
 
