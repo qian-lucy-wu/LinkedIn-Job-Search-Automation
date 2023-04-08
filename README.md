@@ -1,5 +1,11 @@
 # Web Scraping Group Project: LinkedIn Job Search Automation
 
+Contributed collaboratively by: Aishwarya Prashant Kamat, Qian(Lucy) Wu, Haridhakshini (Harisha) Subramoniapillai Ajeetha
+
+Special thanks to my teammates for the great work! It is a pleasure to complete this project together! 💗
+
+#########################################
+
 Webpage Source: https://www.linkedin.com/jobs/
 
 Code files: Both.ipynb and .py files with comments & readme instructions.
